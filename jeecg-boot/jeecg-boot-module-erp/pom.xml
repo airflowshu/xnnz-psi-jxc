@@ -32,10 +32,6 @@
     </repositories>
 
     <dependencies>
-        <!--<dependency>
-            <groupId>org.jeecgframework.boot</groupId>
-            <artifactId>jeecg-boot-base-common</artifactId>
-        </dependency>-->
         <dependency>
             <groupId>org.jeecgframework</groupId>
             <artifactId>autopoi-web</artifactId>
