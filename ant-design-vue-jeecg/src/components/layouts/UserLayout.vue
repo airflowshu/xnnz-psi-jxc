@@ -4,12 +4,12 @@
       <div class="top">
         <div class="header">
           <a href="/">
-            <img src="~@/assets/logo.svg" class="logo" alt="logo">
-            <span class="title">进销存</span>
+            <img src="~@/assets/logo.png" class="logo" alt="logo">
+            <span class="title">鑫农农资进销存</span>
           </a>
         </div>
         <div class="desc">
-          开放，合作，更快更好更卓越......
+          风调雨顺，财源广进！
         </div>
       </div>
 
@@ -81,7 +81,7 @@
 
           .logo {
             height: 44px;
-            vertical-align: top;
+            /*vertical-align: top;*/
             margin-right: 16px;
             border-style: none;
           }
@@ -97,7 +97,7 @@
         }
         .desc {
           font-size: 14px;
-          color: rgba(0, 0, 0, 0.45);
+          color: rgb(187, 173, 43);
           margin-top: 12px;
           margin-bottom: 40px;
         }
